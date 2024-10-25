@@ -9,5 +9,13 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="translator.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="translator.h">
+      <Filter>main</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
